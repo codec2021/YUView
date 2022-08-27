@@ -34,7 +34,7 @@
 
 #include "FFMpegLibrariesTypes.h"
 #include <QList>
-
+#include <vector>
 namespace FFmpeg
 {
 
